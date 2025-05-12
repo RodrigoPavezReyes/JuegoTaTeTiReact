@@ -4,7 +4,8 @@ Este es un proyecto de juego Ta Te Ti desarrollado con React y Vite. Incluye ani
 
 ## Vista Previa
 
-![Captura de pantalla 2025-05-12 205046](https://github.com/user-attachments/assets/6c891046-d3c0-4b47-abfa-d472b9f432c3)
+![Captura de pantalla 2025-05-12 205242](https://github.com/user-attachments/assets/c37e7372-5ad4-4b6b-a139-5f390bce21ac)
+
 
 
 ## Instalación
